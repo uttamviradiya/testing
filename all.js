@@ -6,7 +6,7 @@
   'use strict';
 
   var _WINDOW = {};
-  var _DOCUMENT = {};
+  var _DOCUMENT =  {};
 
   try {
     if (typeof window !== 'undefined') _WINDOW = window;
